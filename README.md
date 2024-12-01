@@ -9,12 +9,13 @@ Este e-book explora um pouco sobre a cerâmica manual, desde o seu surgimento at
 - Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o ChatGPT para criação de um roteiro e as linhas gerais do e-book, assim como revisão e melhorias no texto. Também utilizei o aplicativo Leonardo AI para a criação da capa do e-book e para criação das imagens internas. A montagem final foi realizada pelo aplicativo do Microsoft Word e salvo em PDF, extensão utilizada comumente. 
+Utilizei o ChatGPT para criação de um roteiro e as linhas gerais do e-book, assim como revisão e melhorias no texto. Também utilizei o aplicativo Leonardo AI para a criação da capa e para criação das imagens internas. A montagem final foi realizada pelo aplicativo do Microsoft Word e salvo em PDF, extensão utilizada comumente. 
 
 ## 🚀 Resultados
 O e-book apresenta uma introdução breve sobre a cerâmica manual, abordando o seu longo histórico e seus benefícios atuais. 
 
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1Nt9TlCZ_cuAatzZD0hHPyQwGvR8fUguR/view?usp=drive_link)
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A criação deste e-book foi bastante interessante pois tive a oportunidade de utilizar ferramentas que não são do meu cotidiano, me fazendo sair do "comum". 
